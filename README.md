@@ -7,6 +7,7 @@ Objectives :
 - To help the user explore the playfulness of human- computer interaction.
 - To Superimpose computer-generated information directly into a user’s sensory perception.
 - To notify the audience there is always another way to look at things.
+- To metaphor Maze as the life path of human, its ok to hit/meet obstacles/dead end.
 
 TimeLine :
 
@@ -43,7 +44,8 @@ AR requires user to download the APK file, so that the marker can be trance. For
 Process :
 
 -Week 9
-We have researched the background of AR, example of popular AR game, and also some tutorials to create it. 
+- We have researched the background of AR, example of popular AR game, and also some tutorials to create it.
+
 - http://mashable.com/category/augmented-reality/                                    (What is Augmented Reality)
 - http://www.marxentlabs.com/top-5-augmented-reality-games-2014/                     (Popular AR games)
 - http://computer.howstuffworks.com/augmented-reality.htm                            (How does AR work) 
@@ -51,4 +53,24 @@ We have researched the background of AR, example of popular AR game, and also so
 - https://www.youtube.com/watch?v=23_sboxOH34                                        (Tutorial)
 
 -Week 10
+
+-Week 11
+
+-Week 12
+
+-Week 13
+
+-Week 14
+- Final Presentation of Github page with demonstration video.
+
+2. Audit
+
+Visuals are an important part of advertising, it is not a surprise that many companies start using Augmented Reality (AR) Bandwagon, offering tools that visualize their products in a magical and memorable way. However there are 3 ways of creating Augumented Reality in the market now.
+
+- Marker-based AR
+This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action.
+There was this amazing new advertisement for mini that used marker-based augmented reality to create a truly interactive media piece out of a 2-dimensional magazine ad.
+
+Link: https://www.youtube.com/watch?v=HTYeuo6pIjY
+ 
 
