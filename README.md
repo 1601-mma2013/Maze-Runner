@@ -68,7 +68,7 @@ Process :
 Visuals are an important part of advertising, it is not a surprise that many companies start using Augmented Reality (AR) Bandwagon, offering tools that visualize their products in a magical and memorable way. However there are 3 ways of creating Augumented Reality in the market now.
 
 - Marker-based AR
-- This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action.
+-This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action.
 There was this amazing new advertisement for mini that used marker-based augmented reality to create a truly interactive media piece out of a 2-dimensional magazine ad.
 
 Link: https://www.youtube.com/watch?v=HTYeuo6pIjY
