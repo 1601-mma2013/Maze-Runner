@@ -21,7 +21,7 @@ TimeLine :
 -week 11 
 - Start of Building the project phase 1.
 - Consultation for the project phase 1 on the middle of the week.
-- Start making the project phase 2, Demonstration video, after consultation..
+- Start making the project phase 2, Demonstration video, after consultation.
 
 -week 12
 - Consultation for the project phase 2.
@@ -44,11 +44,11 @@ Process :
 
 -Week 9
 We have researched the background of AR, example of popular AR game, and also some tutorials to create it. 
-http://mashable.com/category/augmented-reality/                                      (What is Augmented Reality)
-http://www.marxentlabs.com/top-5-augmented-reality-games-2014/      (Popular AR games)
-http://computer.howstuffworks.com/augmented-reality.htm                      (How does AR work) 
-https://www.youtube.com/watch?v=mjNAPCFaZ9Y			     (Tutorial)
-https://www.youtube.com/watch?v=23_sboxOH34                                        (Tutorial)
+-http://mashable.com/category/augmented-reality/                                    (What is Augmented Reality)
+-http://www.marxentlabs.com/top-5-augmented-reality-games-2014/                     (Popular AR games)
+-http://computer.howstuffworks.com/augmented-reality.htm                            (How does AR work) 
+-https://www.youtube.com/watch?v=mjNAPCFaZ9Y			                                   (Tutorial)
+-https://www.youtube.com/watch?v=23_sboxOH34                                        (Tutorial)
 
 -Week 10
 
