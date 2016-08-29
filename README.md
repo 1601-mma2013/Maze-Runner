@@ -38,7 +38,7 @@ TimeLine :
 
 Financial constraints : 
 
-AR requires user to download the APK file, so that the marker can be trance. For android, its free for the developer to upload the apk file for the targeted user. But the world 2nd most selling object, IPHONE, needs the user to pay for the developer ID. It will cost the Developer USD 99 (MYR 400.02) per year. Hence, this is the constrain that caused by financil.
+AR requires user to download the APK file, so that the marker can be trance. For android, its free for the developer to upload the apk file for the targeted user. But the world 2nd most selling object, IPHONE, needs the user to pay for the developer ID. It will cost the Developer USD 99 (MYR 400.02) per year. Hence, this is the constrain that caused by financial.
 
 
 Process :
