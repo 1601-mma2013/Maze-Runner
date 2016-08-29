@@ -1,4 +1,4 @@
-# Maze-Runner-
+# MazeRunner
 
 1. Scope
 
