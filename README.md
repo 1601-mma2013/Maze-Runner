@@ -1,4 +1,4 @@
-# MazeRunner
+# Maze-Runner-
 
 1. Scope
 
@@ -26,3 +26,13 @@ Prepare for the Proposal/Analysis of the game(Life Runner).
 -week 12
 - Consultation for the project phase 2.
 - Finish of the project phase 1.
+
+-week 13
+- Final Edit for the Demonstration Video.
+- Finalize phase 2 by end of the week.
+
+-week 14
+- Final Presentation of Github page with demonstration video.
+
+
+Financial constraints : 
