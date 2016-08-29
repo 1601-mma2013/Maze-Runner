@@ -11,7 +11,7 @@ Objectives :
 TimeLine :
 
 -week 09
-Prepare for the Proposal/Analysis of the game(Life Runner).
+- Prepare for the Proposal/Analysis of the game(Life Runner).
 
 -week 10
 - Consultation for the Analysis.
