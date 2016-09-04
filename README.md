@@ -1,6 +1,6 @@
 #Maze-Runner
 
-#A.	Research 
+A.	Research 
 
 1.	Scope
 This Augmented Reality (AR) project help the user to explore the playfulness of human-computer interaction. The user is require to stand on the mark X and control the maze but the maze is only visible on the screen infront of the user.
@@ -125,7 +125,7 @@ Environments	•	Exhibition Hall
 Tools	       •	A Piece of Paper
 Challenges	  •	Finish the maze displayed in the screen, by controlling with the piece of paper that is prepared.
 
-#B.	Modelling
+B.	Modelling
 
 •	Persona
 Name : Jolin Chai
