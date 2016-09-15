@@ -1,4 +1,7 @@
 # Maze Runner
+# Don't
+"Dignity"-Limit of Patience
+
 ## I. Analysis
 
 ### 1. Research
@@ -45,7 +48,7 @@ TimeLine :
 * Example link : https://www.youtube.com/watch?v=2sj2iQyBTQs (Pokemon GO)*
 
 2. Competitors / alternatives / replacement
-- There are similar Maze Games using AR. But most of the Maze game in the market needed devices like Nintando WII, and some in screen controller 
+There are similar Maze Games using AR. But most of the Maze game in the market needed devices like Nintando WII, and some in screen controller. 
 Competitors as below :
 *https://www.youtube.com/watch?v=BjEKoDW9S-4 (Nintando WII) 
 *https://www.youtube.com/watch?v=C4m4wffJp5I (In screen controller)
