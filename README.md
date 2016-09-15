@@ -1,7 +1,4 @@
 # Maze Runner
-# Don't
-"Dignity"-Limit of Patience
-
 ## I. Analysis
 
 ### 1. Research
