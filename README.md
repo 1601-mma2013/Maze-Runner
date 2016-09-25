@@ -15,12 +15,11 @@
 1.Feild Research 
 - There is a lot of people in Malaysia, knows and loves Yasmin Ahmad, there are thousands of tributes from her friends, fellow industry colleagues and people around the world. There is a museum to keep her legacy alive in Ipoh, The donation reaches USD 19,748.
 
-	 * Supporter Massages Link
-:http://www.marketingmagazine.com.my/yasmin/tributes5.html *
+	 * Supporter Massages Link:http://www.marketingmagazine.com.my/yasmin/tributes5.html 
 
-	* Museum Link :https://startsomegood.com/yasminmuseum*
+	* Museum Link :https://startsomegood.com/yasminmuseum
 
-	* Example link : https://www.youtube.com/watch?v=2sj2iQyBTQs (Pokemon GO)*
+	* RAW statistic supportor link : https://www.facebook.com/yasminatkongheng/likes
 
 2. Competitors / alternatives / replacement
 There are similar Maze Games using AR. But most of the Maze game in the market needed devices like Nintando WII, and some in screen controller. 
