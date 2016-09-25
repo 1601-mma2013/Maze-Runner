@@ -18,9 +18,9 @@
 	 * Supporter Massages Link
 :http://www.marketingmagazine.com.my/yasmin/tributes5.html *
 
-* Museum Link :https://startsomegood.com/yasminmuseum*
+	* Museum Link :https://startsomegood.com/yasminmuseum*
 
-* Example link : https://www.youtube.com/watch?v=2sj2iQyBTQs (Pokemon GO)*
+	* Example link : https://www.youtube.com/watch?v=2sj2iQyBTQs (Pokemon GO)*
 
 2. Competitors / alternatives / replacement
 There are similar Maze Games using AR. But most of the Maze game in the market needed devices like Nintando WII, and some in screen controller. 
