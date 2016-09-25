@@ -7,16 +7,18 @@
 
 -------
 
->*This interactive artwork is to inspire the others with Yasmin Ahmad’s breakthrough. She was the very first Malaysia Figure to be honored on google search engine. Google paid tribute to her by publishing a doodle bearing her image (Our Marker). Malaysia is multi-racial country. As she said she paid attention to all the details around her to produce the work. We used colors to represents the “elements” that she used to produce her work. Where Green represents Malay, Red Represents Chinese, Orange represents Indian, Blue represents Unity.*
+>*This interactive artwork is to inspire the others with Yasmin Ahmad’s breakthrough. She was the very first Malaysia Figure to be honored on google search engine. Google paid tribute to her by publishing a doodle bearing her image (Our Marker). Malaysia is multi-racial country. As she said she paid attention to all the details around her to produce the work. We used colors to represents the “elements” that she used to produce her work. Where Green represents Malay, Red Represents Chinese, Orange represents Indian, Blue represents Unity.By using these elements her work was awarded internatinally to propagate Yasmin's teachings of love, acceptance and harmony in a multi-racial nation.*
 
 
 
 ### b. Audit
 1.Feild Research 
-- AR game allow player a unique perspective, innovative gameplay option and the ability to interact with games directly rather than through a controller or a keyboard. Hence, there is some company using AR to produce game like Sony(PS VITA), Zenfri Inc(Clandestine : Anomaly), Nintendo.
-	 * Example link
-:https://www.youtube.com/watch?time_continue=74&v=dvsNnm5lbR4 (Digimon for PS VITA) *
-* Example link :https://www.youtube.com/watch?v=bSW8AyPzWuo (Clandestine : Anomaly)*
+- There is a lot of people in Malaysia, knows and loves Yasmin Ahmad, there are thousands of tributes from her friends, fellow industry colleagues and people around the world. There is a museum to keep her legacy alive in Ipoh, The donation reaches USD 19,748.
+
+	 * Supporter Massages Link
+:http://www.marketingmagazine.com.my/yasmin/tributes5.html *
+
+* Museum Link :https://startsomegood.com/yasminmuseum*
 
 * Example link : https://www.youtube.com/watch?v=2sj2iQyBTQs (Pokemon GO)*
 
