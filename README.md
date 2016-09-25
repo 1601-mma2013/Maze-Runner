@@ -5,7 +5,7 @@
 
 ### a. Scope
 
-- This Augmented Reality (AR) project help the user to explore the playfulness of human-computer interaction. The user is require to stand on the mark X and control the maze but the maze is only visible on the screen that is in front of the user. The maze actually delicate to a well-known film director, writer, and a script writer, Yasmin Ahmad. When the ball reaches some point of the maze, some information about her will pops out. 
+# This Augmented Reality (AR) project help the user to explore the playfulness of human-computer interaction. The user is require to stand on the mark X and control the maze but the maze is only visible on the screen that is in front of the user. The maze actually delicate to a well-known film director, writer, and a script writer, Yasmin Ahmad. When the ball reaches some point of the maze, some information about her will pops out. 
 ------
 
 TimeLine :
