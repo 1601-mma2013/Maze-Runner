@@ -5,34 +5,10 @@
 
 ### a. Scope
 
-This Augmented Reality (AR) project help the user to explore the playfulness of human-computer interaction. The user is require to stand on the mark X and control the maze but the maze is only visible on the screen that is in front of the user. The maze actually delicate to a well-known film director, writer, and a script writer, Yasmin Ahmad. When the ball reaches some point of the maze, some information about her will pops out. 
-------
+-------
 
-TimeLine :
+>*This interactive artwork is to inspire the others with Yasmin Ahmad’s breakthrough. She was the very first Malaysia Figure to be honored on google search engine. Google paid tribute to her by publishing a doodle bearing her image (Our Marker). Malaysia is multi-racial country. As she said she paid attention to all the details around her to produce the work. We used colors to represents the “elements” that she used to produce her work. Where Green represents Malay, Red Represents Chinese, Orange represents Indian, Blue represents Unity.*
 
->*Week9*
->- Prepare for the Proposal/Analysis of the game(Maze Runner). 
-
->*Week10*
->- Consultation for the Analysis.
->- Research about the technique is going to be use.
->- Prepare the “Blue Print” of the maze.
-
->*Week11*
->- Start of Building the project phase 1.
->- Start of project phase 2, demonstration video, after consultation.
-
->*Week12*
->- Consultation for the project phase 2.
->- Finish of the project phase 1.
->- Project Test-run. 
-
->*Week13*
->- Final Edit for the Demonstration Video.
->- Finalize phase 2 by end of the week.
-
->*Week14*
->- Final Presentation of Github page with demonstration video.
 
 
 ### b. Audit
