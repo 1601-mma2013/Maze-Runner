@@ -23,7 +23,8 @@
 
 2. Competitors / alternatives / replacement
 -------
->* here was a digital art exhibition and film screening called ‘In her Own Words : A celebration of humanity and universal love’ as a tribute to Yasmin Ahmad’s life and legacy. Using Yasmin’s own blog as inspiration. The artist blended her own words with striking visual images to create an art series as progressive as Yasmin’s thought. The artist was so inspired by Yasmin’s outlook on life and her inspirational body of work, that he devoted his expertise to paying tribute to one of Malaysia’s visionary figures.*
+>* There was a digital art exhibition and film screening called ‘In her Own Words : A celebration of humanity and universal love’ as a tribute to Yasmin Ahmad’s life and legacy. Using Yasmin’s own blog as inspiration. The artist blended her own words with striking visual images to create an art series as progressive as Yasmin’s thought. The artist was so inspired by Yasmin’s outlook on life and her inspirational body of work, that he devoted his expertise to paying tribute to one of Malaysia’s visionary figures.
+>* Plan B ipoh has an art installment on the life and works of Yasmin Ahmad. The commemorative Yasmin Ahmad installation, named "Small Town Big Heart" is a photographic journey from in and around ipoh town super-imposed with witty quotes and anecdotes carefully selected from the book, "Yasmin, How You Know".
 
 
 ### 3.Relevant technologies
