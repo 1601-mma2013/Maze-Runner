@@ -12,7 +12,7 @@
 
 
 ### b. Audit
-1.Feild Research 
+###1.Field Research
 - There is a lot of people in Malaysia, knows and loves Yasmin Ahmad, there are thousands of tributes from her friends, fellow industry colleagues and people around the world. There is a museum to keep her legacy alive in Ipoh, The donation reaches USD 19,748.
 
 	 * Supporter Massages Link:http://www.marketingmagazine.com.my/yasmin/tributes5.html 
