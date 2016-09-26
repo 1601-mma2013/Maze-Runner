@@ -22,10 +22,7 @@
 	* RAW statistic supportor link : https://www.facebook.com/yasminatkongheng/likes
 
 2. Competitors / alternatives / replacement
-There are similar Maze Games using AR. But most of the Maze game in the market needed devices like Nintando WII, and some in screen controller. 
-Competitors as below :
-*https://www.youtube.com/watch?v=BjEKoDW9S-4 (Nintando WII) 
-*https://www.youtube.com/watch?v=C4m4wffJp5I (In screen controller)
+There was a digital art exhibition and film screening called ‘In her Own Words : A celebration of humanity and universal love’ as a tribute to Yasmin Ahmad’s life and legacy. Using Yasmin’s own blog as inspiration. The artist blended her own words with striking visual images to create an art series as progressive as Yasmin’s thought. The artist was so inspired by Yasmin’s outlook on life and her inspirational body of work, that he devoted his expertise to paying tribute to one of Malaysia’s visionary figures.
 
 
 3.Relevant technologies
