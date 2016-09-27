@@ -29,15 +29,11 @@
 
 ### 3.Relevant technologies
 -------
-Visuals are an important part of advertising, it is not a surprise that many companies start using Augmented Reality (AR) Bandwagon, offering tools that visualize their products in a magical and memorable way. However there are 3 ways of creating Augumented Reality in the market now. 
+This project was build with Marker-based AR technique and executed with the help of webcam as the mirror. The reason why this project was built in AR because it helps to portrait the life path of Yasmin Ahmad with her spirit. If the audience pay attention to the maze(as life path) the wall was mounted with yasmin's face. This project also needed a mirror effect, where AR and the tool, webcam, fits perfectly into the project. The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. 
+
 >* Marker-based AR 
 >-This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action. There was this amazing new advertisement for mini that used marker-based augmented reality to create a truly interactive media piece out of a 2-dimensional magazine ad. 
->* Markerless AR *
->- This technique uses a graphic instead of marker. In result, AR implementation and use is easier: marketers can use existing graphics to present their AR ads and consumers can vew them easily.
->- Example Link : https://www.youtube.com/watch?v=2sj2iQyBTQs
->* Layar, Goggles *
->- Smartphone AR app like goggles, free for Android phones, and Layar, free for Anroid and Apple devices, allow users to point their smartphones in any direction, look throught the camera viewers, and reveal information about what they see. 
->- Example Link : https://www.youtube.com/watch?v=VFaIengNrxY
+
 
 
 ### c. Stakeholder Interviews (internal / external)
@@ -54,7 +50,7 @@ Project Vision
 >- To Pay Attention to All the elements around.
 
 Risk
-- The risk of using marker Augmented reality is the marker might not be able to be detected. The game might keep restarting while the marker signal lost.
+- The Vistor might be find it hard to 
 
 Obstacles
 - This project is placed in darkplace, the light souce might not be enough, the other projected project might produce some unwanted light source to interfere the webcam to detect the marker.
