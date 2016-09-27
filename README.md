@@ -106,9 +106,6 @@ Users
 
 # II. Synthesis
 ## 3. Requirements Definition
-### a. Context Scenarios
-A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals by telling the narrative about ideal user experiences
-### b. Requirements
 Describe necessary capabilities of the product
 1. Functional and data needs
 
