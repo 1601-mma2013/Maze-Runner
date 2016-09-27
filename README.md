@@ -114,6 +114,8 @@ Describe necessary capabilities of the product
 >- To Pay Attention to All the elements around.
 
 6. technology
+>- Marker-based AR
+>- This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action. There was this amazing new advertisement for mini that used marker-based augmented reality to create a truly interactive media piece out of a 2-dimensional magazine ad. 
 
 ## 4. Design Framework
 ### a. Elements
