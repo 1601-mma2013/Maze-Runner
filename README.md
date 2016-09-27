@@ -77,13 +77,13 @@ Users
 potential users -The potential Users start from the range of 18 years old to 24 years old and known Yasmin as a Elite for her skills.
 
 -----
-(user’s) behaviors - miss reading the correct direction to rotate.
-(user’s) attitudes - Prefer to have mirror control.
-(user’s) aptitudes – User’s ability to learn quickly and do it well are fast.
-(user’s) motivations – The story that we tried to portrait 
-(user’s) environments - Exhibition Hall
-(user’s) tools – A piece of paper
-(user’s) challenges - Finish the maze displayed in the screen, by controlling with the piece of paper that is prepared.
+>- (user’s) behaviors - miss reading the correct direction to rotate.
+>- (user’s) attitudes - Prefer to have mirror control.
+>- (user’s) aptitudes – User’s ability to learn quickly and do it well are fast.
+>- (user’s) motivations – The story that we tried to portrait 
+>- (user’s) environments - Exhibition Hall
+>- (user’s) tools – A piece of paper
+>- (user’s) challenges - Finish the maze displayed in the screen, by controlling with the piece of paper that is prepared.
 
 ##2. Modeling
 
