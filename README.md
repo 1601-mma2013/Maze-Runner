@@ -67,26 +67,26 @@ Users
  
 ![p1](https://cloud.githubusercontent.com/assets/20163421/18884394/ce2a60fc-8519-11e6-9865-2dd042e581ab.JPG)
 ![p2](https://cloud.githubusercontent.com/assets/20163421/18884440/fa54e06c-8519-11e6-853f-96176b18db19.JPG)
--------
+
 
 >- Do you want to achieve a better life standard ?
 ![1](https://cloud.githubusercontent.com/assets/20163421/18884066/79963ecc-8518-11e6-88fe-9b468c97f2f5.JPG)
--------
+
 >- If you are pointing your left hand at the mirror, then the mirror in front of you is pointing which hand?
 ![2](https://cloud.githubusercontent.com/assets/20163421/18884178/dbf8f58c-8518-11e6-8a73-83c7c1f2d685.JPG)
--------
+
 >- How long did you take to complete this simple maze?  (provided image)
 ![3](https://cloud.githubusercontent.com/assets/20163421/18884612/b92cfab0-851a-11e6-8c4b-18f1014993e9.JPG)
--------
+
 >- Will you get inspire by people around  you with their success? 
 ![4](https://cloud.githubusercontent.com/assets/20163421/18884707/2744e7c4-851b-11e6-8d73-34eb4b2f4979.JPG)
--------
+
 >- Which is the best Material to rotate with hand?
 ![5](https://cloud.githubusercontent.com/assets/20163421/18884750/4af000d2-851b-11e6-810f-26d1a43a0430.JPG)
--------
+
 >- What do you think you are surrounded by ? 
 ![6](https://cloud.githubusercontent.com/assets/20163421/18884767/6238ae60-851b-11e6-8868-58dabc667432.JPG)
--------
+
 ##2. Modeling
 
 ### a. Personas
@@ -137,7 +137,7 @@ Describe necessary capabilities of the product
 Deﬁne manifestations of information and functionality
 
 1. Information
-
+1
 2. functions
 > When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
 
