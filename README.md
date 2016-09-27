@@ -31,10 +31,6 @@
 -------
 This project was build with Marker-based AR technique and executed with the help of webcam as the mirror. The reason why this project was built in AR because it helps to portrait the life path of Yasmin Ahmad with her spirit. If the audience pay attention to the maze(as life path) the wall was mounted with yasmin's face. This project also needed a mirror effect, where AR and the tool, webcam, fits perfectly into the project. 
 
->* Marker-based AR 
->-This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action. There was this amazing new advertisement for mini that used marker-based augmented reality to create a truly interactive media piece out of a 2-dimensional magazine ad. 
-
-
 
 ### c. Stakeholder Interviews (internal / external)
 In this case, we planned to have this installation in "Yasmin At Kong Heng Museum". A resource centre as well as unconventional ‘museum’ curated with the objective of educating and inspiring others to write film or commercial scripts of their own. It is a small but flexible space where the late Yasmin Ahmad’s spirit, love, wisdom and sense of humour can continue inspiring the next generation.
@@ -116,8 +112,6 @@ Describe necessary capabilities of the product
 >- To feel that we are the director of our life, we choose our path.
 >- To insipre others with "Semangat Yasmin", Yasmin's spirit.
 >- To Pay Attention to All the elements around.
-
-5. business requirements
 
 6. technology
 
