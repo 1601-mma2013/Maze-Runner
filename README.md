@@ -153,6 +153,7 @@ Deﬁne manifestations of information and functionality
 Design overall structure of user experience
 
 1. Spatial Arrangement
+David S. Hogsette points out that "technical writers may use spatial order to explain how a mechanism works; architects use spatial order to describe a building design; food critics reviewing a new restaurant use spatial order to describe and evaluate the dining area" (Writing That Makes Sense, 2008). In descriptions of places and objects, spatial order determines the perspective from which readers observe the details. 
 
 
 ### c. Key Path and Validation Scenarios
