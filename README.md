@@ -155,6 +155,9 @@ Design overall structure of user experience
 1. Spatial Arrangement
 David S. Hogsette points out that "technical writers may use spatial order to explain how a mechanism works; architects use spatial order to describe a building design; food critics reviewing a new restaurant use spatial order to describe and evaluate the dining area" (Writing That Makes Sense, 2008). In descriptions of places and objects, spatial order determines the perspective from which readers observe the details. 
 
+![arrangement](https://cloud.githubusercontent.com/assets/20163421/18886962/c2a40df4-8524-11e6-9fd9-8c4a786841b7.png)
+
+
 
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
