@@ -50,7 +50,9 @@ Project Vision
 >- To Pay Attention to All the elements around.
 
 Risk
-- The Vistor might be find it hard to 
+- Vistor might be find it hard to control the maze. 
+- Vistor might not have a smart phone.
+- Vistor might not have internet data to download the APK file.
 
 Obstacles
 - This project is placed in darkplace, the light souce might not be enough, the other projected project might produce some unwanted light source to interfere the webcam to detect the marker.
@@ -58,13 +60,13 @@ Obstacles
 
 Constraints
 Internal limitations
--There are some constraints that we face for this project. The lack of technical background is one of the main constraints that we had. Furthermore, as us, student money is the main problem for producing this project. The cost of renting equipments like computer, webcam, table-light, and some printings for the marker.
+- The Internal limitations like the marker is not allow to leave the distance of 54cm to detect the maze. 
+- The program doesnt allow the it to export to exe(only into apk).
 
 Opportunities
-- In spite of obstacles we have in building this project , we got support not only in the term of money but also technical. Below is the souce of our strength : 
-- Center For Interactive Media, providing us techical skill “lecturing”. 
-- Faculty of Creative Multimedia, MMU, renting equipments to us for free. 
-- Media Art Design 3 class, providing exhibition space for Us to display our project.
+- Vistors might find it challenging to continue the maze
+- Vistor spending more time around the museum.
+- Provide a interactive experience with new media technologies.
 
 ### d. User observations
 
@@ -72,26 +74,16 @@ Understand user needs and behavior and describe it. Find various aspect of audie
 
 Users
 
-potential users -The potential Users start from the range of 18 years old to 24 years old that owns a smartphone.
+potential users -The potential Users start from the range of 18 years old to 24 years old and known Yasmin as a Elite for her skills.
 
-
-(user’s) behaviors - Prefer Playing with the Digital Visual instead of the Physical Activities.
-- Interested in the technique used behind.
-
-
-(user’s) attitudes - Never give up till the very end of everything, even mini games like the project
--	Willing to try new thing
-
+-----
+(user’s) behaviors - miss reading the correct direction to rotate.
+(user’s) attitudes - Prefer to have mirror control.
 (user’s) aptitudes – User’s ability to learn quickly and do it well are fast.
 (user’s) motivations – The story that we tried to portrait 
-
 (user’s) environments - Exhibition Hall
-
 (user’s) tools – A piece of paper
-
 (user’s) challenges - Finish the maze displayed in the screen, by controlling with the piece of paper that is prepared.
-
-
 
 ##2. Modeling
 
