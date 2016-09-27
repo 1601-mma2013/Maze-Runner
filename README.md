@@ -29,7 +29,7 @@
 
 ### 3.Relevant technologies
 -------
-This project was build with Marker-based AR technique and executed with the help of webcam as the mirror. The reason why this project was built in AR because it helps to portrait the life path of Yasmin Ahmad with her spirit. If the audience pay attention to the maze(as life path) the wall was mounted with yasmin's face. This project also needed a mirror effect, where AR and the tool, webcam, fits perfectly into the project. The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. 
+This project was build with Marker-based AR technique and executed with the help of webcam as the mirror. The reason why this project was built in AR because it helps to portrait the life path of Yasmin Ahmad with her spirit. If the audience pay attention to the maze(as life path) the wall was mounted with yasmin's face. This project also needed a mirror effect, where AR and the tool, webcam, fits perfectly into the project. 
 
 >* Marker-based AR 
 >-This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action. There was this amazing new advertisement for mini that used marker-based augmented reality to create a truly interactive media piece out of a 2-dimensional magazine ad. 
@@ -80,7 +80,7 @@ Users
 >- (user’s) attitudes - Prefer to have mirror control.
 >- (user’s) aptitudes – User’s ability to learn quickly and do it well are fast.
 >- (user’s) motivations – The story that we tried to portrait 
->- (user’s) environments - Exhibition Hall
+>- (user’s) environments - Appreciate art
 >- (user’s) tools – A piece of paper
 >- (user’s) challenges - Finish the maze displayed in the screen, by controlling with the piece of paper that is prepared.
 
@@ -98,22 +98,13 @@ Users
 
 ------
 
-1. Goals: Achieve a better life standard, explore the playfulness of human-computer interaction. 
-2. Behavior: Curious about how what can technologies do.
-3. Attitudes: she is willing to try new thing.
+1. Goals: Achieve a better life standard.
+2. Behavior: miss reading the correct direction to rotate.
+3. Attitudes: Prefer to have mirror control.
 4. Aptitudes: learn to suit herself very fast.
 5. Environments: public space/campaign/events
 6. Tools: Hand
  
-
-
-b. Other Models
-
-Represent domain factors beyond individual users and customers 1. Workflows among multiple people
-
-environments
-
-artifacts
 
 # II. Synthesis
 ## 3. Requirements Definition
@@ -126,6 +117,7 @@ Describe necessary capabilities of the product
 2. user mental models
 
 3. design imperatives
+The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. 
 
 4. product vision
 
