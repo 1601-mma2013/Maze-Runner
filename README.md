@@ -63,13 +63,18 @@ Opportunities
 
 Users
 
- potential users -The potential Users start from the range of 18 years old to 24 years old and known Yasmin as a Elite for her skills.
+ potential users -The potential Users start from the range of 18 years old to 24 years old and known Yasmin.
  
->- Do you want to achieve a better life standard ?
+![p1](https://cloud.githubusercontent.com/assets/20163421/18884394/ce2a60fc-8519-11e6-9865-2dd042e581ab.JPG)
+![p2](https://cloud.githubusercontent.com/assets/20163421/18884440/fa54e06c-8519-11e6-853f-96176b18db19.JPG)
 
+
+>- Do you want to achieve a better life standard ?
 ![1](https://cloud.githubusercontent.com/assets/20163421/18884066/79963ecc-8518-11e6-88fe-9b468c97f2f5.JPG)
 
 >- (user’s) attitudes - Good in sensing direction.
+![2](https://cloud.githubusercontent.com/assets/20163421/18884178/dbf8f58c-8518-11e6-8a73-83c7c1f2d685.JPG)
+
 >- (user’s) aptitudes – User’s ability to learn quickly and do it well are fast.
 >- (user’s) motivations – The story that we tried to portrait 
 >- (user’s) environments - Appreciate art
