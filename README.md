@@ -123,10 +123,10 @@ Describe necessary capabilities of the product
 > The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. The elements that yasmin used to produce her work was potraited in colors. The colors of the wall was based on an research contacted by Dr Forest Lim, where red is the favourite color of chinese, Green is the favourite color of Malay, Orange is the favourite color of Indian. and of course based on the national flag that yasmin came from, Malaysia, Blue represents Unity. Unity among the races.
 
 4. product vision
->- User explore the playfulness of human-computer interaction.
+>- To inspire others with Yasmin's success.
 >- To feel that we are the director of our life, we choose our path.
 >- To insipre others with "Semangat Yasmin", Yasmin's spirit.
->- To Pay Attention to All the elements around.
+>- User explore the playfulness of human-computer interaction.
 
 6. technology
 >- Marker-based AR
@@ -160,4 +160,12 @@ David S. Hogsette points out that "technical writers may use spatial order to ex
 The setup for this project is above. With the help of the two table lamp, User will first see what is the light pointing at. Human will always look what is near to them. Hence, we placed the light and marker infront is to hope to bring the user into the "artwork" with the help of words. Television is push to the edge of the table so that the user feels bigger while playing the project. The webcam is placed in the middle so that the user who is using it will be the main focus.
 
 ### c. Key Path and Validation Scenarios
-Describe how the persona interacts with the product
+Describe how the persona interacts with the project.
+
+1. Eli was attracted by the lights of a project. she walked there but there is no one there to explain what to do. 
+
+2. Anyhow, her personal background allows her to identify the marker and face it to the webcam after knowing this is an Augmented reality installation. Eli was shock when she sees the digital screen, There is a maze ready for her to play. Eli also realize that is two exist, she decided to go with the one she preferred.
+
+3. While Eli was rotating the marker horizontally to move the ball. She has some hardtime controlling the maze at first, because it was not mirror-ed. As she is a quick learner, she controlls the maze smoother as time pass. She realized the wall was mounted with Yasmin's image.
+
+4. After watching the exist video showing how Yasmin's Award and nomination through out the world. Eli planned to work harder and achieve a better life quality, not only in term of money, but also mentally.
