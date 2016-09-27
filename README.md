@@ -75,9 +75,13 @@ Users
 >- If you are pointing your left hand at the mirror, then the mirror in front of you is pointing which hand?
 ![2](https://cloud.githubusercontent.com/assets/20163421/18884178/dbf8f58c-8518-11e6-8a73-83c7c1f2d685.JPG)
 
->- (user’s) aptitudes – User’s ability to learn quickly and do it well are fast.
->- (user’s) motivations – The story that we tried to portrait 
->- (user’s) environments - Appreciate art
+>- How long did you take to complete this simple maze?  (provided image)
+![3](https://cloud.githubusercontent.com/assets/20163421/18884612/b92cfab0-851a-11e6-8c4b-18f1014993e9.JPG)
+
+>- Will you get inspire by people around  you with their success? 
+
+>- Which is the best Material to rotate with hand?
+
 >- (user’s) tools – A piece of paper
 >- (user’s) challenges - Finish the maze displayed in the screen, by controlling with the piece of paper that is prepared.
 
