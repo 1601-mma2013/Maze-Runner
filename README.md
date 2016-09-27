@@ -106,7 +106,7 @@ Describe necessary capabilities of the product
 > When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
 
 2. user mental models
-> The user should believe   
+> Using the curiosity of the human being. While the user is playing the maze, they are believe to zoom in and out. They should realize the wall is mounted with yasmin's face. Furthermore, The colors that the race of Malaysia favourite are quite signaficant. 
 
 3. design imperatives
 > The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. The elements that yasmin used to produce her work was potraited in colors. The colors of the wall was based on an research contacted by Dr Forest Lim, where red is the favourite color of chinese, Green is the favourite color of Malay, Orange is the favourite color of Indian. and of course based on the national flag that yasmin came from, Malaysia, Blue represents Unity. Unity among the races.
