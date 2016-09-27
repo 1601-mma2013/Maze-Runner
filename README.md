@@ -142,21 +142,18 @@ Deﬁne manifestations of information and functionality
 2. functions
 > When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
 
-3. mechanisms
+3. Form Factor
+> This project mainly focus on the digital form.
 
 4. actions
-
+> User is require to move only within the table. and rotate it.
 
 
 ### b. Framework
 Design overall structure of user experience
-1. Object relationships
-2. Conceptual groupings
-3. Navigation sequencing
-4. Principles and patterns
-5. Floor Plan
-	6. flow
-	7. sketches
-	8. storyboards
+
+1. Spatial Arrangement
+
+
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
