@@ -69,8 +69,6 @@ Opportunities
 - Provide a interactive experience with new media technologies.
 
 ### d. User observations
-
-Understand user needs and behavior and describe it. Find various aspect of audience/customer
 -----
 
 Users
