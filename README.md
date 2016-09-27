@@ -137,7 +137,8 @@ Describe necessary capabilities of the product
 Deﬁne manifestations of information and functionality
 
 1. Information
-1
+The user is require to stand on the mark X and control the maze only within the table (54cm). The maze is only visible in the 40 inch TV that we provided in front of the user. The user has to face the marker into the webcam. The maze is a tribute to Yasmin Ahmad, during the user is playing with the maze, they can view the maze in 3D. In result that, this allow the users to see what is around the maze.
+
 2. functions
 > When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
 
