@@ -120,15 +120,17 @@ Describe necessary capabilities of the product
 ## 4. Design Framework
 ### a. Elements
 Deﬁne manifestations of information and functionality
+
 1. Information
 
 2. functions
+> When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
 
 3. mechanisms
 
 4. actions
 
-5. domain object models
+
 
 ### b. Framework
 Design overall structure of user experience
