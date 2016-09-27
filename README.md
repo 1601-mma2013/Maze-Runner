@@ -45,7 +45,7 @@ In this case, we planned to have this installation in "Yasmin At Kong Heng Museu
 The location of Kong Heng in Ipoh was chosen for its proximity to many of the locales where Yasmin shot her famous films.
 It will not be a conventional museum for a ‘dead person’s things’ or stagnant archives with permanent plaques. Instead, 
 Yasmin At Kong Heng is an evolving space with content that is refreshed every 6 months to 1 year. Yasmin’s life’s work - whether in film, poetry, photography, TV and even print advertising – will be shared in a “newseum” that inspires and springboards 
-new talent and ideas.And, in the near future, we want to make it a place for local creative talent to shine – from students and aspiring filmmakers to new artists who need an exhibition space. Facebook Link : www.facebook.com/yasminatkongheng
+new talent and ideas.And, in the near future, a place for local creative talent to shine – from students and aspiring filmmakers to new artists who need an exhibition space. Facebook Link : www.facebook.com/yasminatkongheng
 
 Project Vision
 >- User explore the playfulness of human-computer interaction.
