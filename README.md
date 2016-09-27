@@ -109,13 +109,13 @@ Users
 Describe necessary capabilities of the product
 
 1. Functional and data needs
-When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
+> When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
 
 2. user mental models
-The  
+> The  
 
 3. design imperatives
-The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. 
+> The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. 
 
 4. product vision
 
