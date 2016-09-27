@@ -43,12 +43,6 @@ It will not be a conventional museum for a ‘dead person’s things’ or stagn
 Yasmin At Kong Heng is an evolving space with content that is refreshed every 6 months to 1 year. Yasmin’s life’s work - whether in film, poetry, photography, TV and even print advertising – will be shared in a “newseum” that inspires and springboards 
 new talent and ideas.And, in the near future, a place for local creative talent to shine – from students and aspiring filmmakers to new artists who need an exhibition space. Facebook Link : www.facebook.com/yasminatkongheng
 
-Project Vision
->- User explore the playfulness of human-computer interaction.
->- To feel that we are the director of our life, we choose our path.
->- To insipre others with "Semangat Yasmin", Yasmin's spirit.
->- To Pay Attention to All the elements around.
-
 Risk
 - Vistor might be find it hard to control the maze. 
 - Vistor might not have a smart phone.
@@ -112,12 +106,16 @@ Describe necessary capabilities of the product
 > When the user faced the marker towards the camera. The program will detect the marker and allow the user to interact with the project by playing the maze game. The maze is only visible in the digital screen. The user is require to rotate the marker to move the ball. while the marker is moving, the program will detect the movement and excute the correct function.
 
 2. user mental models
-> The  
+> The user should believe   
 
 3. design imperatives
-> The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. 
+> The maze represents yasmin's life path how she achieve her achievements. Yes, the audience is the one controlling the maze, but the audience was the one choose to pay attention or not, to go to exist 1 or 2. The elements that yasmin used to produce her work was potraited in colors. The colors of the wall was based on an research contacted by Dr Forest Lim, where red is the favourite color of chinese, Green is the favourite color of Malay, Orange is the favourite color of Indian. and of course based on the national flag that yasmin came from, Malaysia, Blue represents Unity. Unity among the races.
 
 4. product vision
+>- User explore the playfulness of human-computer interaction.
+>- To feel that we are the director of our life, we choose our path.
+>- To insipre others with "Semangat Yasmin", Yasmin's spirit.
+>- To Pay Attention to All the elements around.
 
 5. business requirements
 
