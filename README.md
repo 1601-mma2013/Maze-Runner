@@ -74,8 +74,8 @@ Opportunities
 Users
 
  potential users -The potential Users start from the range of 18 years old to 24 years old and known Yasmin as a Elite for her skills.
->- (user’s) behaviors - miss reading the correct direction to rotate.
->- (user’s) attitudes - Prefer to have mirror control.
+>- (user’s) behaviors - Indentifiying the Marker.
+>- (user’s) attitudes - Good in sensing direction.
 >- (user’s) aptitudes – User’s ability to learn quickly and do it well are fast.
 >- (user’s) motivations – The story that we tried to portrait 
 >- (user’s) environments - Appreciate art
@@ -100,7 +100,7 @@ Users
 2. Behavior: miss reading the correct direction to rotate.
 3. Attitudes: Prefer to have mirror control.
 4. Aptitudes: learn to suit herself very fast.
-5. Environments: public space/campaign/events
+5. Environments: Surrounded by New Technologies
 6. Tools: Hand
  
 
