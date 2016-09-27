@@ -28,14 +28,13 @@
 
 
 ### 3.Relevant technologies
+-------
 - Visuals are an important part of advertising, it is not a surprise that many companies start using Augmented Reality (AR) Bandwagon, offering tools that visualize their products in a magical and memorable way. However there are 3 ways of creating Augumented Reality in the market now. 
 >* Marker-based AR 
 >-This technique uses camera and a visual marker baked into the content that a marketer wants to present, the viewer holds up the content to the camera to see the AR in action. There was this amazing new advertisement for mini that used marker-based augmented reality to create a truly interactive media piece out of a 2-dimensional magazine ad. 
 >* Markerless AR *
 >- This technique uses a graphic instead of marker. In result, AR implementation and use is easier: marketers can use existing graphics to present their AR ads and consumers can vew them easily.
 >- Example Link : https://www.youtube.com/watch?v=2sj2iQyBTQs
-
-
 >* Layar, Goggles *
 >- Smartphone AR app like goggles, free for Android phones, and Layar, free for Anroid and Apple devices, allow users to point their smartphones in any direction, look throught the camera viewers, and reveal information about what they see. 
 >- Example Link : https://www.youtube.com/watch?v=VFaIengNrxY
