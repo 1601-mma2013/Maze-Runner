@@ -79,11 +79,13 @@ Users
 ![3](https://cloud.githubusercontent.com/assets/20163421/18884612/b92cfab0-851a-11e6-8c4b-18f1014993e9.JPG)
 
 >- Will you get inspire by people around  you with their success? 
+![4](https://cloud.githubusercontent.com/assets/20163421/18884707/2744e7c4-851b-11e6-8d73-34eb4b2f4979.JPG)
 
 >- Which is the best Material to rotate with hand?
+![5](https://cloud.githubusercontent.com/assets/20163421/18884750/4af000d2-851b-11e6-810f-26d1a43a0430.JPG)
 
->- (user’s) tools – A piece of paper
->- (user’s) challenges - Finish the maze displayed in the screen, by controlling with the piece of paper that is prepared.
+>- What do you think you are surrounded by ? 
+![6](https://cloud.githubusercontent.com/assets/20163421/18884767/6238ae60-851b-11e6-8868-58dabc667432.JPG)
 
 ##2. Modeling
 
