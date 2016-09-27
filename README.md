@@ -41,12 +41,17 @@ Visuals are an important part of advertising, it is not a surprise that many com
 
 
 ### c. Stakeholder Interviews (internal / external)
+In this case, we planned to have this installation in "Yasmin At Kong Heng Museum". A resource centre as well as unconventional ‘museum’ curated with the objective of educating and inspiring others to write film or commercial scripts of their own. It is a small but flexible space where the late Yasmin Ahmad’s spirit, love, wisdom and sense of humour can continue inspiring the next generation.
+The location of Kong Heng in Ipoh was chosen for its proximity to many of the locales where Yasmin shot her famous films.
+It will not be a conventional museum for a ‘dead person’s things’ or stagnant archives with permanent plaques. Instead, 
+Yasmin At Kong Heng is an evolving space with content that is refreshed every 6 months to 1 year. Yasmin’s life’s work - whether in film, poetry, photography, TV and even print advertising – will be shared in a “newseum” that inspires and springboards 
+new talent and ideas.And, in the near future, we want to make it a place for local creative talent to shine – from students and aspiring filmmakers to new artists who need an exhibition space. Facebook Link : www.facebook.com/yasminatkongheng
 
-Product Vision
+Project Vision
 >- User explore the playfulness of human-computer interaction.
 >- To feel that we are the director of our life, we choose our path.
->- User explore the playfulness of human-computer interaction.
->- To feel that we are the director of our life, we choose our path.
+>- To insipre others with "Semangat Yasmin", Yasmin's spirit.
+>- To Pay Attention to All the elements around.
 
 Risk
 - The risk of using marker Augmented reality is the marker might not be able to be detected. The game might keep restarting while the marker signal lost.
