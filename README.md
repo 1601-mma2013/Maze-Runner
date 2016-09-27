@@ -43,10 +43,10 @@ Visuals are an important part of advertising, it is not a surprise that many com
 ### c. Stakeholder Interviews (internal / external)
 
 Product Vision
-•	 User explore the playfulness of human-computer interaction.
-•	 To feel that we are the director of our life, we choose our path.
-•	User explore the playfulness of human-computer interaction.
-•	To feel that we are the director of our life, we choose our path.
+>- User explore the playfulness of human-computer interaction.
+>- To feel that we are the director of our life, we choose our path.
+>- User explore the playfulness of human-computer interaction.
+>- To feel that we are the director of our life, we choose our path.
 
 Risk
 - The risk of using marker Augmented reality is the marker might not be able to be detected. The game might keep restarting while the marker signal lost.
