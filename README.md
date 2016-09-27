@@ -157,7 +157,7 @@ David S. Hogsette points out that "technical writers may use spatial order to ex
 
 ![arrangement](https://cloud.githubusercontent.com/assets/20163421/18886962/c2a40df4-8524-11e6-9fd9-8c4a786841b7.png)
 
-
+The setup for this project is above. With the help of the two table lamp, User will first see what is the light pointing at. Human will always look what is near to them. Hence, we placed the light and marker infront is to hope to bring the user into the "artwork" with the help of words. Television is push to the edge of the table so that the user feels bigger while playing the project. The webcam is placed in the middle so that the user who is using it will be the main focus.
 
 ### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
